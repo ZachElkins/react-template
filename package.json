@@ -1,0 +1,14 @@
+{
+  "name": "react template",
+  "version": "1.0.0",
+  "description": "A simple template for creating react projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "Zachary Elkins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
